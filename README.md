@@ -212,28 +212,15 @@ notes-generator/
 
 ## 🎯 Use Case: Why HSK2 Chinese?
 
-### 🌏 Context: My Journey as a Humanoid Robotics Researcher
+# 🌏 Context: My Journey to China for Higher Education
 
-As a **Humanoid Robotics researcher**, I'm preparing for research opportunities in China—the global leader in robotics R&D. Language proficiency is essential for:
+### I am an ICS (Intermediate in Computer Science) graduate from Pakistan with a passion for Humanoid Robotics. My goal is to secure a fully-funded scholarship for my higher education in China—the global leader in AI and Robotics.
 
-- 🤝 Collaborating with Chinese research teams
-- 📚 Reading technical literature in Mandarin
-- 🏛️ Presenting at Chinese conferences
-- 🌐 Understanding Chinese innovation culture
+#### The Challenge: To be a top candidate, I need to master the Chinese language (HSK) while simultaneously learning cutting-edge AI tools.
 
-**The Problem**: Creating quality study materials is time-consuming.
+#### The Solution: Instead of just "studying," I decided to "build". I used my Quarter 2 skills (AIDD & SDD) to create this system.
 
-**The Solution**: Use AI agents to generate a complete learning system automatically.
-
-**The Result**: This repository—a fully functional HSK2 study system built as a technical proof-of-concept.
-
-### 💡 Why This Use Case is Perfect for AIDD
-
-1. **Well-Defined Domain**: HSK2 has a fixed vocabulary list (300 words)
-2. **Structured Output**: Notes, flashcards, quizzes follow clear formats
-3. **Quality Metrics**: Pedagogical frameworks (Bloom's Taxonomy) provide evaluation criteria
-4. **Scalability**: Same approach works for HSK3, HSK4, or any subject
-5. **Real Value**: I actually need these materials for personal study
+#### The Result: This repository is my first technical proof-of-concept. It shows that I don't just use AI to chat; I use AI Agents (Claude Code) to solve my real-world problems, like automating my HSK 2 preparation.
 
 **This isn't a toy project—it's a real-world application of AIDD solving an authentic problem.**
 
